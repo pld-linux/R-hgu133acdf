@@ -2,12 +2,12 @@
 
 Summary:	HG-U133A.cdf data file
 Name:		R-%{packname}
-Version:	2.11.0
+Version:	2.13.0
 Release:	1
 License:	LGPL v2+
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/annotation/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	336d8981ed4a3c20ef0536f51f1ea9a0
+# Source0-md5:	83558169c5b1cbf7f280e5c6ec8de3df
 URL:		http://www.bioconductor.org/packages/release/data/annotation/html/hgu133acdf.html
 BuildRequires:	R-AnnotationDbi
 BuildRequires:	R
